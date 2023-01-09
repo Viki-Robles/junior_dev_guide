@@ -8,7 +8,7 @@ modified: 2021-04-23
 ---
 
 - [LeetCode:](https://leetcode.com/accounts/login/?next=%2Fproblems%2Flongest-common-prefix%2Fsolutions%2F127449%2Fofficial-solution%2F)
-- [Hackerank](https://www.hackerrank.com/interview/interview-preparation-kit?h_l=domains&h_r=hrw&utm_source=hrwCandidateFeedback_
+- [Hackerank](https://www.hackerrank.com/interview/interview-preparation-kit?h_l=domains&h_r=hrw&utm_source=hrwCandidateFeedback_)
 - [CodeWars](https://www.codewars.com/)
 
 ### Environments
