@@ -16,11 +16,16 @@ modified: 2021-04-23
 ### Python Notes
 
 - [Awesome_Python](https://awesome-python.com/)
+- [Python_data_structures_and_algo](https://dev.to/javinpaul/5-best-data-structure-and-algorithms-courses-for-python-developers-44ka)
 
-### Node Best Practises
+### Node Notes
 
-- [Source](https://github.com/goldbergyoni/nodebestpractices)
+- [Node_best_practises](https://github.com/goldbergyoni/nodebestpractices)
 
 ### The book of Secret Knowledge
 
 - [Book](https://github.com/trimstray/the-book-of-secret-knowledge)
+
+### Github
+
+- [Github_repos](https://dev.to/devwriteups/25-github-repos-you-can-t-miss-to-bookmark-1ek1)
