@@ -3,12 +3,12 @@ title: Tools
 tags:
   - dev
   - tools
-emoji: 📔
+emoji: 🛠️
 link: https://zander.wtf
 modified: 2021-04-23
 ---
 
-### React
+### React Carousel List of packages
 
 - React Carousel:
   - [React_Slick](https://www.npmjs.com/package/react-slick)
@@ -17,5 +17,7 @@ modified: 2021-04-23
 
 ### Forms with Authenicating User
 
-- Source A: [Firebase_Auth_React](https://blog.logrocket.com/user-authentication-firebase-react-apps/)
-  - Source B: [Firebase_Auth_React_TypeScript](https://github.com/Viki-Robles/react-firebase-auth-typescript)
+- [Firebase_Auth_React](https://blog.logrocket.com/user-authentication-firebase-react-apps/)
+- [Firebase_Auth_React_TypeScript](https://github.com/Viki-Robles/react-firebase-auth-typescript)
+
+###
